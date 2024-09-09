@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Moghesh
-=======
-David Brunner
-Moghesh 
->>>>>>> 3f215e249eff3777a52e7eec81faff49bb249493
-=======
 David Brunner 
 Shivan Kathir
 Moghesh Kamalaraj
->>>>>>> fba12bd2fde229a8580bd387d0599ea3983ff973
